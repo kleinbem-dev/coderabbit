@@ -1,6 +1,6 @@
 # coderabbit
 
-Central [CodeRabbit](https://coderabbit.ai) config for every `kleinbem` repo.
+Central [CodeRabbit](https://coderabbit.ai) config for every `kleinbem-dev` repo.
 CodeRabbit reads `.coderabbit.yaml` from this repo for any repo without its own.
 While it exists, the web UI settings don't apply.
 
@@ -10,3 +10,6 @@ See [central configuration](https://docs.coderabbit.ai/configuration/central-con
 and [inheritance](https://docs.coderabbit.ai/configuration/configuration-inheritance).
 
 CI checks the file against CodeRabbit's schema on every PR.
+
+The `kleinbem` user account has its own copy in `kleinbem/coderabbit`.
+Keep the two in step.
