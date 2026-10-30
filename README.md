@@ -13,3 +13,5 @@ CI checks the file against CodeRabbit's schema on every PR.
 
 The `kleinbem` user account has its own copy in `kleinbem/coderabbit`.
 Keep the two in step.
+
+<!-- probe: does CodeRabbit review automatically here? -->
